@@ -2,9 +2,9 @@
 
 ## Setup
 
-- Fork this repository
+<!-- - Fork this repository
 - Clone your copy of it to your local machine
-- Open in VS Code
+- Open in VS Code -->
 
 ## Directions
 
